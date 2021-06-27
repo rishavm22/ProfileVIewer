@@ -1,10 +1,8 @@
-# profile_viewer
-
-Prorile Viewer Flutter project.
+# Profile Viewer
 
 ## Getting Started
 
-This project is for learning purposes.
+This project is for learning purpose only.
 
 Here are Some Screen Shots of this Project
 
