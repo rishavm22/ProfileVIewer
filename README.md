@@ -1,16 +1,21 @@
 # profile_viewer
 
-A new Flutter project.
+Prorile Viewer Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for learning purposes.
 
-A few resources to get you started if this is your first Flutter project:
+Here are Some Screen Shots of this Project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](assets/images/firstPage.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Filters
+
+![](assets/images/secondPage.png)
+
+Filter Result
+
+![](assets/images/thirdPage.png)
+
+![](assets/images/fourthPage.png)

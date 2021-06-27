@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class ListFilterProvider extends ChangeNotifier {
   RangeValues ageLimit=RangeValues(18, 60);
   String interest='';
-  int _limit=3;
+  int _limit=4;
 
   RangeValues get getAgeLimit => ageLimit;
 
@@ -22,9 +22,7 @@ class ListFilterProvider extends ChangeNotifier {
   int get getListLimit => _limit;
 
   void increaseListLimit(int v){
-    Future.delayed(Duration(milliseconds: 1000), () {
-      _limit= _limit+v;
-    });
+    _limit= _limit+v;
     notifyListeners();
   }
 
