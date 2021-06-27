@@ -8,14 +8,15 @@ This project is for learning purposes.
 
 Here are Some Screen Shots of this Project
 
-![](assets/images/firstPage.png)
+<img src="assets/images/firstPage.png" height="400" width="250"></img>
 
 Filters
 
-![](assets/images/secondPage.png)
+<img src="assets/images/secondPage.png" height="400" width="250"></img>
 
-Filter Result
+Filter Results
 
-![](assets/images/thirdPage.png)
+<img src="assets/images/thirdPage.png" height="400" width="250">    </img><img src="assets/images/fourthPage.png" height="400" width="250"></img>
 
-![](assets/images/fourthPage.png)
+
+FIrebase (Firestore) is used for database
