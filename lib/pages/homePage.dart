@@ -5,7 +5,6 @@ import 'package:flutter_form_builder/flutter_form_builder.dart';
 import 'package:lazy_load_scrollview/lazy_load_scrollview.dart';
 import 'package:profile_viewer/provider/listFilterProvider.dart';
 import 'package:profile_viewer/provider/profileFilterProvider.dart';
-import 'package:progress_indicators/progress_indicators.dart';
 import 'package:provider/provider.dart';
 
 class HomePage extends StatefulWidget {
@@ -47,7 +46,6 @@ class _HomePageState extends State<HomePage> {
                     return listData(data);
                   }),
                 ),
-                isLoading?JumpingDotsProgressIndicator():Container(),
               ],
             ),
           ),
